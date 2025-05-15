@@ -39,8 +39,8 @@
 
 ## Exemplo de Uso
 1. Instalar axios: 
-2. ```bash
+    ```bash
    npm install axios express dotenv
-3. Execute o arquivo `request.js` no terminal:
+2. Execute o arquivo `request.js` no terminal:
    ```bash
    node request.js
